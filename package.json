@@ -1,0 +1,16 @@
+{
+  "name": "sneaker-web-site-scraping",
+  "version": "1.0.0",
+  "description": "searching brand new sneakers and future releases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "fafa",
+  "license": "ISC",
+  "dependencies": {
+    "diff": "^4.0.2",
+    "puppeteer": "^3.3.0"
+  }
+}
